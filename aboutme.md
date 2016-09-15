@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-*Andrey Azimov*                                                               
+#Andrey Azimov                                                               
 
 **Experience**
 
@@ -12,7 +12,7 @@ subtitle: Why you'd want to go on a date with me
 
 Founder                                                                                        2015 – Now
 
-_GetDev is_ _an_ _IT_ _outstaffing_ _agency that helping_ _founders_ _find talented developers                               _
+GetDev is an IT outstaffing agency that helping founders find talented developers                               
 
 - Interviewed more than 1000 candidates
 - 21 Developers were hired and working in different startups around the world
