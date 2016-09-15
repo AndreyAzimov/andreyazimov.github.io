@@ -6,11 +6,11 @@ subtitle: Why you'd want to go on a date with me
 
 #Andrey Azimov                                                               
 
-**Experience**
+##Experience
 
-[**GetDev**](http://www.getdev.co)
+[###GetDev](http://www.getdev.co)
 
-Founder                                                                                        2015 – Now
+####Founder                                                                                        2015 – Now
 
 GetDev is an IT outstaffing agency that helping founders find talented developers                               
 
