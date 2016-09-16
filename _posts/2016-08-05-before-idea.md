@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Title title
-subtitle: Sub title
+title: Before Idea
+subtitle: Simple test to check is it worth it to called an "Idea"
 ---
 
 # Before Idea
@@ -14,9 +14,7 @@ Try to answer this simple questions to figure out is this something that can be 
 1. What is not satisfied need that my client is actively seeking and willing to pay for it. One particular. Not two or more.
 2. Who is my client? One particular persona
 3. What he is not satisfying him in the existing solutions?
-4. Where are the proofs that he is:
-  4.1 Actively seeking for the solution.
-  4.2Willing to pay for its solutions.
+4. Where are the proofs that he is: Actively seeking for the solution and willing to pay for its solutions.
 5. Why the client will choose me from all existing solutions? What is my USP (Unique Selling Proposition).
 6. Where such client are hangout this big concentration?
 
