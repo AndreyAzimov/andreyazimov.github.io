@@ -1,8 +1,8 @@
 ---
 layout: post
 title: WTF Building the right product?
-subtitle: Picture
-bigimg: https://cdn-images-1.medium.com/max/1600/1*2tzswsD42KAAeHNDncJFtg.jpeg
+subtitle: In scope of AARRR metrics
+bigimg: cdn-images-1.medium.com/max/1600/1*2tzswsD42KAAeHNDncJFtg.jpeg
 ---
 
 # WTF “Building the right product”?
