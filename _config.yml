@@ -51,12 +51,12 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   email: true
+  linkedin: true
   twitter: true
   github: true
-  linkedin: true
   google-plus: false
   rss: false
-  facebook: true
+  facebook: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -78,7 +78,7 @@ share-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "andrey_azimov"
+disqus: "deanattali-site"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
