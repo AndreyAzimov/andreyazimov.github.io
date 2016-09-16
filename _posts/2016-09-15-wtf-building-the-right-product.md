@@ -2,7 +2,7 @@
 layout: post
 title: WTF Building the right product?
 subtitle: In scope of AARRR metrics
-bigimg: /img/right_product.jpeg
+bigimg: /img/right_product.jpg
 ---
 
 # WTF “Building the right product”?
