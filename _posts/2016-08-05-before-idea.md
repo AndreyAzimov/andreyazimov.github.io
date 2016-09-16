@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Before Idea
+title: Before Idea (Hypothesis template)
 subtitle: Simple test to check is it worth it to called an "Idea"
 ---
 
-# Before Idea
+# Before Idea (Hypothesis template)
 
 ![image](https://andreyazimov.github.io/img/idea.jpg)
 
@@ -19,3 +19,13 @@ Try to answer this simple questions to figure out is this something that can be 
 6. Where such client are hangout this big concentration?
 
 And after this it become more clear. Finding answer on this question is the good start and I don't have any excuses about what I should do with my new "Idea"
+
+# More simple was with hypothesis
+
+1. I believe [WHO] has [PROBLEM]
+
+2. I believe [WHO] will [PAY ME FOR WHAT] because [PAINS]
+
+3. I have [SOLUTION] that will solve this problem
+
+
