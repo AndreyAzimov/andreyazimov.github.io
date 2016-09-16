@@ -2,10 +2,11 @@
 layout: post
 title: WTF Building the right product?
 subtitle: In scope of AARRR metrics
-bigimg: /img/right_product.jpg
 ---
 
 # WTF “Building the right product”?
+
+![right_product](https://cdn-images-1.medium.com/max/2000/1*2tzswsD42KAAeHNDncJFtg.jpeg)
 
 The main goal of PM is to build the right product. But If to be more rational
 and avoid philosophical things I tried to understand what does it means —
