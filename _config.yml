@@ -17,7 +17,7 @@ baseurl: ""
 title: Andrey Azimov Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Make something that people want
 
 # --- Navigation bar options --- #
 
@@ -50,13 +50,13 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: false
   email: true
   twitter: true
-  google-plus: false
   github: true
-  linkedin: false
+  linkedin: true
+  google-plus: false
+  rss: false
+  facebook: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -104,7 +104,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
